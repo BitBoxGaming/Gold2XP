@@ -1,0 +1,4 @@
+name: Gold2XP
+main: com.gmail.bitboxgaming.Gold2XP.MainClass
+version: 1.0
+description: Convert Gold Ingots into XP!

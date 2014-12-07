@@ -1,0 +1,6 @@
+Block-To-Be-Right-Clicked: GOLD_BLOCK
+Item-To-Be-Consumed: GOLD_INGOT
+Number-Of-Items-To-Be-Consumed: 1
+Levels-To-Give: 1
+Use-Vault-To-Charge-Player: false
+Cost-Of-Exchange: 250
